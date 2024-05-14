@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "0cc7",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-14T16:48:59.901Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.7133789062500004"
+      }
+    },
+    {
+      "id": "8875",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-13T15:49:37.000Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71123253895227",
+        "lng": "-9.118652343750002"
+      }
+    },
+    {
+      "id": "1fde",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-08-29T15:52:24.000Z",
+      "notes": "",
+      "position": {
+        "lat": "52.522905940278065",
+        "lng": "13.425292968750002"
+      }
+    },
+    {
+      "id": "d6ea",
+      "cityName": "Loeches",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-22T09:07:13.319Z",
+      "notes": "",
+      "position": {
+        "lat": "40.396764305572056",
+        "lng": "-3.3837890625000004"
+      }
+    },
+    {
+      "id": "fa77",
+      "cityName": "Moraleja",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-22T09:07:51.383Z",
+      "notes": "",
+      "position": {
+        "lat": "39.977120098439634",
+        "lng": "-6.723632812500001"
+      }
+    }
+  ]
+}
