@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 ### Features
 
-<p>Interactive map using Leaflet</p>
-<p>Pinpoint and save training locations</p>
-<p>View and manage saved locations</p>
-<p>Responsive design for use on various devices</p>
+- Interactive map using Leaflet
+- Pinpoint and save training locations
+- View and manage saved locations
+- Responsive design for use on various devices
