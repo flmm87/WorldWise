@@ -11,6 +11,9 @@ Currently, two official plugins are available:
 <img width="500" alt="Screenshot 2024-06-04 at 19 07 16" src="https://github.com/flmm87/worldwise/assets/116169576/85813449-abea-4e15-a6f5-de2577a8a28d"><img width="500" alt="Screenshot 2024-06-04 at 19 19 41" src="https://github.com/flmm87/worldwise/assets/116169576/1be2d799-9433-46fc-9342-0fe57a99c89a">
 
 ### Features
+<style type="text/css">
+  p.fontSize = 14
+</style>
 <p>Interactive map using Leaflet</p>
 <p>Pinpoint and save training locations</p>
 <p>View and manage saved locations</p>
